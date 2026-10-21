@@ -1,4 +1,4 @@
 interface:
   display_name: "镜脉竖屏分镜导演"
-  short_description: "导演方案驱动的动作、特效与连续分镜"
-  default_prompt: "使用 $jingmai-vertical-storyboard 分析这份竖屏短剧剧本，先给导演方案与重点建议；按我确认的方案生成适配目标 Seedance 模型的连续分镜，重点写清表演、动作流、特效和镜头衔接。"
+  short_description: "剧情拍点、节奏与连续镜头驱动的短剧分镜"
+  default_prompt: "使用 $jingmai-vertical-storyboard 分析这份竖屏短剧剧本；按我确认的导演方案规划节奏与Part，完整覆盖原稿拍点，生成可连演、可剪辑且动作特效清晰的连续分镜。"
